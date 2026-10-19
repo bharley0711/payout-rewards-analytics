@@ -1,0 +1,21 @@
+reward_type,amount_band,delivered,claimed,claim_rate_pct
+ACH transfer,Under $10,141,111,78.7
+ACH transfer,$10 to $24,502,416,82.9
+ACH transfer,$25 to $99,1019,860,84.4
+ACH transfer,$100 to $249,464,401,86.4
+ACH transfer,$250 and up,156,128,82.1
+Charity donation,Under $10,101,54,53.5
+Charity donation,$10 to $24,304,180,59.2
+Charity donation,$25 to $99,577,359,62.2
+Charity donation,$100 to $249,299,207,69.2
+Charity donation,$250 and up,81,64,79.0
+Gift card,Under $10,334,206,61.7
+Gift card,$10 to $24,1253,895,71.4
+Gift card,$25 to $99,2278,1712,75.2
+Gift card,$100 to $249,1049,852,81.2
+Gift card,$250 and up,365,295,80.8
+Prepaid card,Under $10,170,113,66.5
+Prepaid card,$10 to $24,570,444,77.9
+Prepaid card,$25 to $99,1079,858,79.5
+Prepaid card,$100 to $249,504,419,83.1
+Prepaid card,$250 and up,173,143,82.7

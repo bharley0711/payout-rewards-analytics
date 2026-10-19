@@ -1,0 +1,11 @@
+sender_name,issue_month,issued,delivery_failures,failure_rate_pct
+Northwind Traders,2026-03,311,230,74.0
+Meridian Travel,2026-01,103,10,9.7
+Lumen Energy,2026-02,90,7,7.8
+Foxglove Media,2026-04,99,7,7.1
+Foxglove Media,2026-05,85,6,7.1
+Lumen Energy,2026-06,120,8,6.7
+Atlas Insurance,2026-01,133,7,5.3
+Atlas Insurance,2026-05,134,7,5.2
+Cascade Manufacturing,2026-05,134,7,5.2
+Juniper Retail Group,2026-03,170,8,4.7

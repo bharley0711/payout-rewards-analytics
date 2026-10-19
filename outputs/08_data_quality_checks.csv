@@ -1,0 +1,8 @@
+check_name,problem_rows
+duplicate payout_id,0
+negative or zero amount,0
+claimed without delivery,0
+claimed before issued,0
+delivered before issued,0
+claimed status but no claimed_at,0
+unknown status value,0
