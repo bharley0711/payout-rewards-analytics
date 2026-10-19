@@ -1,0 +1,7 @@
+campaign_type,issued,delivered,claimed,delivery_rate_pct,claim_rate_pct_of_delivered,avg_hours_to_claim
+Sales SPIF,2033,1944,1561,95.6,80.3,73.2
+Research incentive,1977,1867,1470,94.4,78.7,51.6
+Employee recognition,2030,1937,1487,95.4,76.8,82.0
+Referral bonus,1978,1880,1437,95.0,76.4,71.4
+Customer rebate,1986,1898,1416,95.6,74.6,66.9
+Survey incentive,1996,1893,1346,94.8,71.1,67.0
